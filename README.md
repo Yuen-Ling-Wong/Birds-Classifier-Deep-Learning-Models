@@ -1,4 +1,4 @@
-# Birds-Classifier-Deep-Learnning-Models
+# Birds-Classifier-Deep-Learning-Models
 
 This project aims at building a bird classification model by using deep learnning models. 
 
